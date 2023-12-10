@@ -1,0 +1,13 @@
+.numbers {
+  font-size: 12px;
+  font-weight: 700;
+  color: #404040;
+  line-height: 0.1;
+  text-align: center;
+  margin-top: 20px;
+}
+.titles {
+  font-size: 10px;
+  color: grey;
+  text-align: center;
+}
